@@ -5,10 +5,10 @@ which have been trained on Google Colaboratory.
 
 ## Results
 
-<img src="./number_plate.jpg" />
-<img src="./number_plate_result.png" width="305" height="165" />
+<img src="./number_plate.jpg" width="605" height="265" />
+<img src="./number_plate_result.png" width="605" height="265" />
 
 
 
-<img src="./export.png" width="305" height="165" />
-<img src="./result.png" width="305" height="165" />
+<img src="./export.png" width="605" height="265" />
+<img src="./result.png" width="605" height="265" />
