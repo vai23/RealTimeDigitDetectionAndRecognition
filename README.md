@@ -6,4 +6,4 @@ which have been trained on Google Colaboratory.
 ## Results
 
 ![number plate](https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate.jpg)
-![number plate result](https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate_result.png =305x165)
+<img src="https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate_result.png" width="305" height="165" /
