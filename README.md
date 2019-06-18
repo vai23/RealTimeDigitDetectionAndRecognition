@@ -8,7 +8,7 @@ which have been trained on Google Colaboratory.
 <img src="./number_plate.jpg" />
 <img src="./number_plate_result.png" width="305" height="165" />
 
-<br>
+
 
 <img src="./export.png" width="305" height="165" />
 <img src="./result.png" width="305" height="165" />
