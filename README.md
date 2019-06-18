@@ -3,7 +3,7 @@
 This project detects digits and recognize them using tensorflow object detection API. This project contains pre trained model
 which have been trained on Google Colaboratory.
 
-# Results
+## Results
 
 ![number plate](https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate.jpg)
-![number plate result](https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate_result.png)
+![number plate result](https://github.com/vai23/RealTimeDigitDetectionAndRecognition/blob/master/number_plate_result.png | width=305)
