@@ -4,9 +4,6 @@ import numpy as np
 import tensorflow as tf
 import sys
 
-# This is needed since the notebook is stored in the object_detection folder.
-sys.path.append("..")
-
 # Import utilites
 from utils import label_map_util
 from utils import visualization_utils as vis_util
