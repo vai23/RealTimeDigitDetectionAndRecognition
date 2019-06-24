@@ -1,3 +1,4 @@
+# Put this file in models/research/object_detection folder then run
 import os
 import cv2
 import numpy as np
@@ -9,8 +10,8 @@ from utils import label_map_util
 from utils import visualization_utils as vis_util
 
 # Name of the directory containing the object detection module we're using
-MODEL_NAME = 'inference_graph'
-IMAGE_NAME = 'save.png'
+MODEL_NAME = 'FOLDER_NAME_CONTAINING_FROZEN_GRAPH'
+IMAGE_NAME = 'YOUR_TEST_IMAGE'
 
 # Grab path to current working directory
 CWD_PATH = os.getcwd()
@@ -20,7 +21,7 @@ CWD_PATH = os.getcwd()
 PATH_TO_CKPT = os.path.join(CWD_PATH, MODEL_NAME, 'frozen_inference_graph.pb')
 
 # Path to label map file
-PATH_TO_LABELS = os.path.join(CWD_PATH, 'training', 'label_map.pbtxt')
+PATH_TO_LABELS = os.path.join(CWD_PATH, 'FOLDER_CONTAINING_PBTXT_FILE', 'label_map.pbtxt')
 
 # Path to image
 PATH_TO_IMAGE = os.path.join(CWD_PATH, IMAGE_NAME)
